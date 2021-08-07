@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/motion2015/cloneMovie_react2021/static/css/main.efa16ed4.chunk.css",
+    "main.js": "/motion2015/cloneMovie_react2021/static/js/main.2f48133c.chunk.js",
+    "main.js.map": "/motion2015/cloneMovie_react2021/static/js/main.2f48133c.chunk.js.map",
+    "runtime-main.js": "/motion2015/cloneMovie_react2021/static/js/runtime-main.c84dc204.js",
+    "runtime-main.js.map": "/motion2015/cloneMovie_react2021/static/js/runtime-main.c84dc204.js.map",
+    "static/js/2.dab5dc78.chunk.js": "/motion2015/cloneMovie_react2021/static/js/2.dab5dc78.chunk.js",
+    "static/js/2.dab5dc78.chunk.js.map": "/motion2015/cloneMovie_react2021/static/js/2.dab5dc78.chunk.js.map",
+    "index.html": "/motion2015/cloneMovie_react2021/index.html",
+    "static/css/main.efa16ed4.chunk.css.map": "/motion2015/cloneMovie_react2021/static/css/main.efa16ed4.chunk.css.map",
+    "static/js/2.dab5dc78.chunk.js.LICENSE.txt": "/motion2015/cloneMovie_react2021/static/js/2.dab5dc78.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c84dc204.js",
+    "static/js/2.dab5dc78.chunk.js",
+    "static/css/main.efa16ed4.chunk.css",
+    "static/js/main.2f48133c.chunk.js"
+  ]
+}
