@@ -15,7 +15,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "num run build",
+    "deploy": "gh-page -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -34,5 +36,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://github.com/motion2015/cloneMovie_react2021"
 }
